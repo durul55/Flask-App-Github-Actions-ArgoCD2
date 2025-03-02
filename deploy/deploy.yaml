@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: dsengun/demo-app:tagname
+        image: dsengun/demo-app:v20250302125854
         ports:
         - containerPort: 5000
